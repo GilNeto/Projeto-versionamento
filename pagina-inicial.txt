@@ -1,5 +1,3 @@
-
-
 fluxo trabalho local 
 
 
@@ -7,4 +5,12 @@ trabalhar no código
 git add .
 git commit -m "discrição do commit"
 
-git log -  mostrar os commit existentes no repositório 
+*git log -  mostrar os commit existentes no repositório 
+
+
+fluxo de trabalho com repositório remoto
+
+trahalhar no código 
+git add .
+git commit -m "descrição do commit" 
+git push -u origin main
