@@ -10,6 +10,7 @@ git commit -m "discrição do commit"
 
 fluxo de trabalho com repositório remoto
 
+<git clone> - baixar o projeto na sua máquina
 trahalhar no código 
 git add .
 git commit -m "descrição do commit" 
