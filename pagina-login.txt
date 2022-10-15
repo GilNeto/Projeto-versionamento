@@ -4,3 +4,4 @@ para juntar o conteúdo da develop para a main
 
 mudar para a branch de destino (main)
 trazer conteúdo da branch pretendida (develop)
+subir alterações para o repositório remoto (git push origin main)
